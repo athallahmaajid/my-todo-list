@@ -19,7 +19,7 @@ Install Requirements
 pip install -r requirements.txt
 ```
 
-Run Flask
+## Run Flask
 
 Linux / MacOS:
 ```
